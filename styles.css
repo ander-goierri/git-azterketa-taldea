@@ -1,0 +1,20 @@
+* {
+    font-family: "Gill Sans", sans-serif;
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+div {
+    margin: 10px;
+}
+form {
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background-color: red;
+}
