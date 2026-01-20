@@ -2,7 +2,7 @@
     font-family: "Gill Sans", sans-serif;
 }
 body {
-    width: 230%;
+    width: 30%;
     margin: 0 auto;
 }
 h1 {
@@ -16,5 +16,5 @@ form {
     margin: auto;
     padding: 10px;
     text-align: center;
-    background-color: lightcoral;
+    background-color: blue;
 }
