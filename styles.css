@@ -2,7 +2,7 @@
     font-family: "Gill Sans", sans-serif;
 }
 body {
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
 }
 h1 {
@@ -12,9 +12,13 @@ div {
     margin: 10px;
 }
 form {
-    width: 80%;
+    width: 60%;
     margin: auto;
     padding: 10px;
     text-align: center;
+<<<<<<< HEAD
     background-color: rgb(3, 49, 134); /* background aldaketa */
+=======
+    background-color: lightgoldenrodyellow;
+>>>>>>> origin/merge-egiteko
 }
